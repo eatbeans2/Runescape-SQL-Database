@@ -1,0 +1,1 @@
+This is an introductory foray into SQL. Data is pulled from an online JSON file and processed through python into an SQL database in the form of a table defined by the sql file.
